@@ -17,7 +17,7 @@
             break;
         case($Q<9):
             echo "notable "
-    }
+    };
     ?>
 </body>
 </html>
