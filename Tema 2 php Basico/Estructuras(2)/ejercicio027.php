@@ -1,6 +1,6 @@
 <?php
-    echo $_GET["nombre"];
+    echo $_GET["Nombre"];
     echo " ,te doy la bienvenida";
     echo "Te enviare los boletines de suscripcion a: ";
-    echo $_GET["e-mail"]
+    echo $_GET["E-mail"]
 ?>
