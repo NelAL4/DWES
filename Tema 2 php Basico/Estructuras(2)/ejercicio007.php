@@ -16,7 +16,7 @@
             echo "aprobao pero raspaito";
             break;
         case($Q<9):
-            echo "notable "
+            echo "notable ";
     };
     ?>
 </body>
